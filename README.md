@@ -1,3 +1,4 @@
+![written(Hello, I'm shuichi!)](https://raw.githubusercontent.com/syuchan1005/syuchan1005/master/written.svg)
 - Job: Android application engineer for messaging app company
 - Hobby: Web service creation 
 
